@@ -1,0 +1,14 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color:#666666;
+}
+img{
+	border:none;
+}
